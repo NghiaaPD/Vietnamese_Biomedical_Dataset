@@ -1,0 +1,6 @@
+| STT | Dataset Name      | Link        | Description | Size | Paper | Type |
+|-----|-------------------|-------------|-------------|------|-------|------|
+|1    | Vietnamese PubMed | https://huggingface.co/datasets/VietAI/vi_pubmed | 20M Vietnamese PubMed biomedical abstracts translated by the state-of-the-art English-Vietnamese Translation project. The data has been used as unlabeled dataset for pretraining a Vietnamese Biomedical-domain Transformer model. | 23 GB | https://arxiv.org/pdf/2210.05598 | Text |
+|2    | ViMedical Disease | https://huggingface.co/datasets/PB3002/ViMedical_Disease | This dataset contains over 12K+ questions and symptoms related to various common diseases in Vietnamese. It's designed to aid in the classification of medical symptoms and provide preliminary disease identification. The dataset covers a wide range of diseases, including cardiovascular, digestive, neurological, dermatological, endocrine, and others. | 1.75 MB |  | Text |
+| 3   | ViMedNER | https://github.com/tdtrinh11/ViMedNer/tree/main/ViMedNER | | | https://publications.eai.eu/index.php/inis/article/view/5221/3275 | Text |
+| 4   | ViMQ     | https://github.com/tadeephuy/ViMQ/tree/main/data | | | https://link.springer.com/chapter/10.1007/978-3-030-92310-5_76 | Text |
